@@ -23,7 +23,7 @@
 <div align="center">
   
 <!---  Screenshot  --->
-![Screeshot](https://github.com/user-attachments/assets/14658038-60ef-48b9-af63-6f12ee3d0d6e)
+![Screeshot](https://github.com/user-attachments/assets/6b2c4918-e217-401e-b597-0b00fabc94da)
 
 
 
